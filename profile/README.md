@@ -62,8 +62,8 @@ Platform ini dibangun menggunakan stack teknologi modern:
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/GMF-Utility-Training/gmf-repo.git
-cd gmf-repo
+git clone https://github.com/GMF-Utility-Training/tu-repo.git
+cd tu-repo
 ```
 
 2. Install dependensi:
@@ -127,7 +127,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE.md](LICENSE.m
 - Website: www.gmfutilitytraining.com
 - Telepon: (021) XXXX-XXXX
 
-## 🙏 Pengakuan
+## 🙏 Pengakuan 😆
 
 Terima kasih kepada semua kontributor yang telah membantu mengembangkan platform ini:
 
@@ -137,5 +137,5 @@ Terima kasih kepada semua kontributor yang telah membantu mengembangkan platform
 - Semua pengguna yang telah memberikan feedback berharga
 
 <div align="center">
-  <p>© 2024 GMF Utility Training. All rights reserved.</p>
+  <p>© 2025 GMF Utility Training. All rights reserved.</p>
 </div>
