@@ -51,6 +51,9 @@ Platform ini dibangun menggunakan stack teknologi modern:
   <img src="assets/login.png" alt="Login Preview" width="200" />
   <img src="assets/dashboard.png" alt="Dashboard Preview 1" width="200" />
   <img src="assets/capability.png" alt="Capability" width="200" />
+  <img src="assets/cot.png" alt="COT Preview" width="200" />
+  <img src="assets/esign.png" alt="ESign" width="200" />
+  <img src="assets/logout.png" alt="Logout Preview" width="200" />
 </p>
 
 ## 🌟 Fitur Utama
