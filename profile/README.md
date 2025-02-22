@@ -23,6 +23,17 @@ Platform ini dikembangkan untuk:
 - Menyediakan analisis dan pelaporan yang komprehensif
 - Memastikan kepatuhan terhadap standar pelatihan industri
 
+## 👥 Tim Pengembang
+
+Perkenalkan tim pengembang dari platform ini, masing-masing memiliki keahlian yang saling mendukung demi mewujudkan platform yang modern, solutif, dan inovatif.
+
+| Name | University | GitHub | LinkedIn |
+|------|-------------|---------|-----------|
+| Aminudin Abdulloh | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/AminudinAbdulloh) | [LinkedIn](https://www.linkedin.com/in/aminudin-abdulloh-784157268) |
+| Hassanul Resky Pratama | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/sanrskyprtma) | [LinkedIn](-) |
+| Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/pangaribowo) | [LinkedIn](https://www.linkedin.com/in/fatahillahalif) |
+| Faradila Galuh Pramesti | Bina Sarana Informatika | [GitHub](-) | [LinkedIn](https://linkedin.com/in/faradilagprm) |
+
 ## 💻 Teknologi
 
 Platform ini dibangun menggunakan stack teknologi modern:
@@ -33,6 +44,14 @@ Platform ini dibangun menggunakan stack teknologi modern:
 - **Infrastruktur:** Cloud-based deployment
 - **Authentication:** JWT-based security
 - **API:** RESTful architecture
+
+## 📱 Tampilan Platform
+
+<p align="center">
+  <img src="assets/login.png" alt="Login Preview" width="200" />
+  <img src="assets/dashboard.png" alt="Dashboard Preview 1" width="200" />
+  <img src="assets/capability.png" alt="Capability" width="200" />
+</p>
 
 ## 🌟 Fitur Utama
 
@@ -62,8 +81,8 @@ Platform ini dibangun menggunakan stack teknologi modern:
 
 1. Clone repositori:
 ```bash
-git clone https://github.com/GMF-Utility-Training/gmf-repo.git
-cd gmf-repo
+git clone https://github.com/GMF-Utility-Training/tu-repo.git
+cd tu-repo
 ```
 
 2. Install dependensi:
@@ -127,7 +146,7 @@ Proyek ini dilisensikan di bawah MIT License - lihat file [LICENSE.md](LICENSE.m
 - Website: www.gmfutilitytraining.com
 - Telepon: (021) XXXX-XXXX
 
-## 🙏 Pengakuan
+## 🙏 Pengakuan 😆
 
 Terima kasih kepada semua kontributor yang telah membantu mengembangkan platform ini:
 
@@ -137,5 +156,5 @@ Terima kasih kepada semua kontributor yang telah membantu mengembangkan platform
 - Semua pengguna yang telah memberikan feedback berharga
 
 <div align="center">
-  <p>© 2024 GMF Utility Training. All rights reserved.</p>
+  <p>© 2025 GMF Utility Training Developers. All rights reserved.</p>
 </div>
