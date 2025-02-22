@@ -137,5 +137,5 @@ Terima kasih kepada semua kontributor yang telah membantu mengembangkan platform
 - Semua pengguna yang telah memberikan feedback berharga
 
 <div align="center">
-  <p>© 2025 GMF Utility Training. All rights reserved.</p>
+  <p>© 2025 GMF Utility Training Developers. All rights reserved.</p>
 </div>
