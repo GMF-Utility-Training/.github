@@ -48,12 +48,12 @@ Platform ini dibangun menggunakan stack teknologi modern:
 ## 📱 Tampilan Platform
 
 <p align="center">
-  <img src="assets/login.png" alt="Login Preview" width="200" />
-  <img src="assets/dashboard.png" alt="Dashboard Preview 1" width="200" />
-  <img src="assets/capability.png" alt="Capability" width="200" />
-  <img src="assets/cot.png" alt="COT Preview" width="200" />
-  <img src="assets/esign.png" alt="ESign" width="200" />
-  <img src="assets/logout.png" alt="Logout Preview" width="200" />
+  <img src="assets/login.png" alt="Login Preview" width="300" />
+  <img src="assets/dashboard.png" alt="Dashboard Preview" width="300" />
+  <img src="assets/capability.png" alt="Capability" width="300" />
+  <img src="assets/cot.png" alt="COT Preview" width="300" />
+  <img src="assets/esign.png" alt="ESign" width="300" />
+  <img src="assets/logout.png" alt="Logout Preview" width="300" />
 </p>
 
 ## 🌟 Fitur Utama
