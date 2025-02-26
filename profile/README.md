@@ -32,9 +32,9 @@ Perkenalkan tim pengembang dari platform ini, masing-masing memiliki keahlian ya
 | Aminudin Abdulloh | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/AminudinAbdulloh) | [LinkedIn](https://www.linkedin.com/in/aminudin-abdulloh-784157268) |
 | Hassanul Resky Pratama | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/sanrskyprtma) | [LinkedIn](-) |
 | Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/pangaribowo) | [LinkedIn](https://www.linkedin.com/in/fatahillahalif) |
-| Faradila Galuh Pramesti | Bina Sarana Informatika | [GitHub](-) | [LinkedIn](https://linkedin.com/in/faradilagprm) |
+| Faradila Galuh Pramesti | Universitas Bina Insani | [GitHub](-) | [LinkedIn](https://linkedin.com/in/faradilagprm) |
 
-## 💻 Teknologi
+## 💻 Teknologigithub/edit/main/profile/README.md
 
 Platform ini dibangun menggunakan stack teknologi modern:
 
