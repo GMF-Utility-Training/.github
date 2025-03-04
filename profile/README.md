@@ -32,9 +32,9 @@ Perkenalkan tim pengembang dari platform ini, masing-masing memiliki keahlian ya
 | Aminudin Abdulloh | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/AminudinAbdulloh) | [LinkedIn](https://www.linkedin.com/in/aminudin-abdulloh-784157268) |
 | Hassanul Resky Pratama | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/sanrskyprtma) | [LinkedIn](-) |
 | Fatahillah Alif Pangaribowo | Institut Teknologi Dirgantara Adisutjipto | [GitHub](https://github.com/pangaribowo) | [LinkedIn](https://www.linkedin.com/in/fatahillahalif) |
-| Faradila Galuh Pramesti | Bina Sarana Informatika | [GitHub](-) | [LinkedIn](https://linkedin.com/in/faradilagprm) |
+| Faradila Galuh Pramesti | Universitas Bina Insani | [GitHub](https://github.com/faradilagprm) | [LinkedIn](https://linkedin.com/in/faradilagprm) |
 
-## 💻 Teknologi
+## 💻 Teknologigithub/edit/main/profile/README.md
 
 Platform ini dibangun menggunakan stack teknologi modern:
 
@@ -48,9 +48,12 @@ Platform ini dibangun menggunakan stack teknologi modern:
 ## 📱 Tampilan Platform
 
 <p align="center">
-  <img src="assets/login.png" alt="Login Preview" width="200" />
-  <img src="assets/dashboard.png" alt="Dashboard Preview 1" width="200" />
-  <img src="assets/capability.png" alt="Capability" width="200" />
+  <img src="assets/login.png" alt="Login Preview" width="350" />
+  <img src="assets/dashboard.png" alt="Dashboard Preview" width="350" />
+  <img src="assets/capability.png" alt="Capability" width="350" />
+  <img src="assets/cot.png" alt="COT Preview" width="350" />
+  <img src="assets/esign.png" alt="ESign" width="350" />
+  <img src="assets/logout.png" alt="Logout Preview" width="350" />
 </p>
 
 ## 🌟 Fitur Utama
